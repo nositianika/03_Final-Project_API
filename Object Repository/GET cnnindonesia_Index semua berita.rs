@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
+<<<<<<< master
    <name>GET CNNindonesia_Index semua berita</name>
+=======
+   <name>GET CNNIndonesia_Index semua berita</name>
+>>>>>>> 9848887 commit baru
    <tag></tag>
    <elementGuidId>3cee879c-bfd5-4b7c-a8e6-b1c9d17b6f4e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

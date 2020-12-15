@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-<<<<<<< master
-   <name>GET CNNindonesia_olahraga</name>
-=======
-   <name>GET CNNIndonesia_olahraga</name>
->>>>>>> 9848887 commit baru
+   <name>GET cnn_indonesia_olahraga</name>
    <tag></tag>
-   <elementGuidId>7f92294d-c05b-4f30-be26-9da924687db7</elementGuidId>
+   <elementGuidId>e59fc871-2d1e-4dbd-891c-c4f81aa83b45</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>

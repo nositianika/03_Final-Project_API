@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-<<<<<<< master
-   <name>GET CNNindonesia_olahraga</name>
-=======
-   <name>GET CNNIndonesia_olahraga</name>
->>>>>>> 9848887 commit baru
+   <name>GET cnn_indonesia_index_berita</name>
    <tag></tag>
-   <elementGuidId>7f92294d-c05b-4f30-be26-9da924687db7</elementGuidId>
+   <elementGuidId>6e543c95-741a-46aa-b3f8-85186f549d90</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <followRedirects>false</followRedirects>
@@ -16,7 +12,7 @@
    <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://www.news.developeridn.com/olahraga</restUrl>
+   <restUrl>https://www.news.developeridn.com/</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
