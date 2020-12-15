@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GET cnnindonesia_Index semua berita</name>
+   <name>GET CNNindonesia_Index semua berita</name>
    <tag></tag>
    <elementGuidId>3cee879c-bfd5-4b7c-a8e6-b1c9d17b6f4e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
