@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GET IndonesianewsAPI</name>
+   <name>GET indonesianewsAPI</name>
    <tag></tag>
    <elementGuidId>fe08d8db-1b22-4bb1-9861-0870cea97751</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GET CNNIndonesia_olahraga</name>
+   <name>GET cnnindonesia_olahraga</name>
    <tag></tag>
    <elementGuidId>7f92294d-c05b-4f30-be26-9da924687db7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
